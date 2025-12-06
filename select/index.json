@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花弁、それにまつわる音声 / 初音ミク",
+  "base_artist": "あばらや",
+  "createdAt": "2025-12-06T09:42:46.255744Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花弁、それにまつわる音声",
+      "artist": "あばらや",
+      "has_synced": false,
+      "path": "select/pl_01_花弁、それにまつわる音声_あばらや.txt"
+    }
+  ]
+}
